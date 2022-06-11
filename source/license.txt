@@ -1,0 +1,11 @@
+Model Information:
+* title:	Photo frame
+* source:	https://sketchfab.com/3d-models/photo-frame-9d92433dd5cb4c888c3b0b3e6e6cac3e
+* author:	EggMan28 (https://sketchfab.com/EggMan28)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Photo frame" (https://sketchfab.com/3d-models/photo-frame-9d92433dd5cb4c888c3b0b3e6e6cac3e) by EggMan28 (https://sketchfab.com/EggMan28) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
